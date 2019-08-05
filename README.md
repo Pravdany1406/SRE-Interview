@@ -2,7 +2,7 @@
 
 The interview will be conducted by 1 engineer from the engineering Department (in English) and will last approximately 30-45 minutes.  
 
-*Please note that the outcome of the interview can be negatively influenced by background noise and/or bad phone lines.
+_Please note that the outcome of the interview can be negatively influenced by background noise and/or bad phone lines._
 
 This interview is focused on coding. During the interview you will be asked questions about your technical skills including algorithms, data structures.
 
