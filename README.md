@@ -6,8 +6,6 @@ _Please note that the outcome of the interview can be negatively influenced by b
 
 This interview is focused on coding. During the interview you will be asked questions about your technical skills including algorithms, data structures.
 
-This interview is focused on coding. During the interview you will be asked questions about your technical skills including algorithms and data structures. 
-
 
 ### IMPORTANT: In addition to this, please do plenty of preparation for this stage
 
