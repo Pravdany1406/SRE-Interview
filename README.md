@@ -33,11 +33,7 @@ https://hackerrank.com/interview/interview-preparation-kit
 
 https://github.com/donnemartin/interactive-coding-challenges
 
-http://blog.amynguyen.net/?p=508 
-
-http://blog.amynguyen.net/?p=783 
-
-http://blog.amynguyen.net/?p=853
+https://leetcode.com/
  
 
 ### IMPORTANT: Tips for the Coding Interview
